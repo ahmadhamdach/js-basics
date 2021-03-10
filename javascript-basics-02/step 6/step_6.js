@@ -18,10 +18,9 @@ else if(idd=="img4"){
 }
 else if(idd=="img3"){
     img5.src="images/image5_2.jpg";
-};
+} }
 img1.addEventListener("mouseover",()=>{changeIng("img1")});
 img2.addEventListener("mouseover",()=>{changeIng("img2")});
 img3.addEventListener("mouseover",()=>{changeIng("img3")});
 img4.addEventListener("mouseover",()=>{changeIng("img4")});
 img5.addEventListener("mouseover",()=>{changeIng("img5")});
-}
